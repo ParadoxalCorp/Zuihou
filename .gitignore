@@ -62,3 +62,4 @@ typings/
 
 test\.js
 config\.js
+package-lock\.json
